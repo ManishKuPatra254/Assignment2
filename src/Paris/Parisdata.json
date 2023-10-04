@@ -1,0 +1,109 @@
+{
+    "itemsnumberparis": [
+        {
+            "id": 1,
+            "car_image": "https://parisdesignagenda.com/wp-content/uploads/2018/03/Paris-Luxury-Property-Market-Becomes-Second-Best-in-Europe-2.jpg",
+            "location": "6, Rue de Lesseps",
+            "location_name": "Paris 8e Arrondissement",
+            "people_range": "4 People",
+            "car_type": "Hybrid",
+            "car_km": "6.1km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$7820 / month"
+        },
+        {
+            "id": 2,
+            "car_image": "https://properties.lefigaro.com/images/PDF/CMS/articles/11361717-1527605625.01.jpg",
+            "location": "Vanderbilt",
+            "location_name": "4 Washington Square N, New York, NY 10003, USA",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "8.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$3460 / month"
+        },
+        {
+            "id": 3,
+            "car_image": "https://www.parisperfect.com/blog/wp-content/uploads/2023/06/paris-property-search-margarida-louro-nTSghtWYQF0-unsplash.jpg",
+            "location": "Wilf Hall ",
+            "location_name": "133 Macdougal St, New York, NY 10012, USA",
+            "money": "$6.12",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "5.3km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$5180 / month"
+        },
+        {
+            "id": 4,
+            "car_image": "https://aihkcdnstoragep01.blob.core.windows.net/pgl-release/Images/ArticleImages/22/22811.jpg",
+            "location": "Shimkin",
+            "location_name": "50 W 4th St, New York, NY 10012, USA",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.7km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4540 / month"
+        },
+        {
+            "id": 5,
+            "car_image": "https://assets.thewanderinginvestor.com/wp-content/uploads/20200913005140/Paris-header-final-1080x675.jpg",
+            "location": "Torch Club  ",
+            "location_name": "18 Waverly Pl, New York, NY 10003, USA",
+            "money": "$0.00",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.6km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$8000 / month"
+        },
+        {
+            "id": 6,
+            "car_image": "https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2019/07/29/f4dd1ac0-adeb-11e9-a61f-bc570b50c4e7_image_hires_155527.jpg",
+            "location": "West 4th St. MTA Station (W 3rd St. and 6th Ave)",
+            "location_name": " 136 W 3rd St, New York, NY 10012, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4110 / month"
+        },
+        {
+            "id": 7,
+            "car_image": "https://img-v2.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F977i215%2F8xwzkcezm7z2m2a51f6n2469v4i215&option=N&h=472&permitphotoenlargement=false",
+            "location": "West 4th St. MTA Station (W 3rd St. and 6th Ave)",
+            "location_name": " 136 W 3rd St, New York, NY 10012, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$8470 / month"
+        },
+        {
+            "id": 8,
+            "car_image": "https://storage.googleapis.com/realtyplusmag-news-photo/news-photo/108056.Affluent-Americans-Buying-Properties-In-Paris-Resulting-in-Luxury-Properties-To-Soar.jpg",
+            "location": "West 4th St. MTA Station (W 3rd St. and 6th Ave)",
+            "location_name": " 136 W 3rd St, New York, NY 10012, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4810 / month"
+        },
+        {
+            "id": 9,
+            "car_image": "https://www.expatica.com/app/uploads/sites/5/2022/02/appartments-in-paris.jpg",
+            "location": "West 4th St. MTA Station (W 3rd St. and 6th Ave)",
+            "location_name": " 136 W 3rd St, New York, NY 10012, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4510 / month"
+        }
+    ]
+}

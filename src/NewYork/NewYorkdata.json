@@ -1,0 +1,109 @@
+{
+    "itemsnumbernew": [
+        {
+            "id": 1,
+            "car_image": "https://images.moneycontrol.com/static-mcnews/2023/03/New-York-770x433.jpg?impolicy=website&width=770&height=431",
+            "location": "8558 Pecan St",
+            "location_name": "RCE Thearters - 907 S Beckford Dr ,27536",
+            "people_range": "4 People",
+            "car_type": "Hybrid",
+            "car_km": "6.1km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4320 / month"
+        },
+        {
+            "id": 2,
+            "car_image": "https://westforestcapital.com/wp-content/uploads/ny.jpg",
+            "location": "13th Street",
+            "location_name": "47 W 13th St, New York, NY 10011, USA",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "8.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$3560 / month"
+        },
+        {
+            "id": 3,
+            "car_image": "https://ipropertymanagement.com/wp-content/uploads/35617/new-york-city-property-management-companies-e1660467161688.jpg",
+            "location": "20 Cooper Square",
+            "location_name": "20 Cooper Square, New York, NY 10003, USA",
+            "money": "$6.12",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "5.3km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4880 / month"
+        },
+        {
+            "id": 4,
+            "car_image": "https://www.lpc.com/wp-content/uploads/2023/07/ny-skyline-small.jpg",
+            "location": "University Hall ",
+            "location_name": "120 E 14th St, New York, NY 10003, USA",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.7km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4240 / month"
+        },
+        {
+            "id": 5,
+            "car_image": "https://images.moneycontrol.com/static-mcnews/2023/06/5.-New-York.jpg?impolicy=website&width=1600&height=900",
+            "location": "Bobst Library ",
+            "location_name": "70 Washington Square South, New York, NY 10012, United States",
+            "money": "$0.00",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.6km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$8900 / month"
+        },
+        {
+            "id": 6,
+            "car_image": "https://cdn.vox-cdn.com/thumbor/PJJzOOiu42yHqujmKTcmmtS_Tkw=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13665130/180509_20_02_14_5DR27369.jpg",
+            "location": "Stuyvesant 14th St & 1st Ave",
+            "location_name": "238 1st Ave, New York, NY 10009, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4210 / month"
+        },
+        {
+            "id": 7,
+            "car_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUIkzZJHbOWU/v1/-1x-1.jpg",
+            "location": "University Hall ",
+            "location_name": "120 E 14th St, New York, NY 10003, USA",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.7km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$5240 / month"
+        },
+        {
+            "id": 8,
+            "car_image": "https://www.bravotv.com/sites/bravo/files/2019-10/mdlny-813-property-230-cps-02.jpg",
+            "location": "Bobst Library ",
+            "location_name": "70 Washington Square South, New York, NY 10012, United States",
+            "money": "$0.00",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.6km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$5900 / month"
+        },
+        {
+            "id": 9,
+            "car_image": "https://www.castle-avenue.com/wp-content/uploads/2021/05/2-Cornelia-Street_1006_Living-Room2-1024x684.jpg",
+            "location": "Stuyvesant 14th St & 1st Ave",
+            "location_name": "238 1st Ave, New York, NY 10009, USA",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4710 / month"
+        }
+        
+    ]
+}

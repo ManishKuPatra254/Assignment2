@@ -1,0 +1,109 @@
+{
+    "itemsnumbermumbai": [
+        {
+            "id": 1,
+            "car_image": "https://www.rustomjee.com/blog/wp-content/uploads/2021/10/property-in-mumbai.jpg",
+            "location": "703/A, Landsend Bldg.",
+            "location_name": "Lokhandwala Complex Andheri (W), Mumbai, Maharashtra 400053, India",
+            "people_range": "4 People",
+            "car_type": "Hybrid",
+            "car_km": "6.1km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$1320 / month"
+        },
+        {
+            "id": 2,
+            "car_image": "https://www.indiabullsrealestate.com/blog/wp-content/uploads/2019/04/top-5-locations-image-777x435.jpg",
+            "location": "20, Famous Studio Lane",
+            "location_name": "Off. Dr. E. Moses Road, Mahalakshmi, Mumbai, Maharashtra 400011, India",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "8.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$2560 / month"
+        },
+        {
+            "id": 3,
+            "car_image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/11/16/754917-property-05.jpg",
+            "location": "Vasant House, Ground Floor",
+            "location_name": " 19th Road, Khar West, Mumbai, Maharashtra 400052, India",
+            "money": "$6.12",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "5.3km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$8880 / month"
+        },
+        {
+            "id": 4,
+            "car_image": "https://www.constructionweekonline.in/cloud/2022/01/25/8OJxjQ92-4-real-estate-1-1200x675.jpg",
+            "location": "310, Raheja Plaza, opposite Yashraj Studio, Shah Industrial Estate,",
+            "location_name": "Off, New Link Rd, Andheri (W, Industrial Area, Andheri West, Mumbai, Maharashtra 400053, India",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.7km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4980 / month"
+        },
+        {
+            "id": 5,
+            "car_image": "https://www.piramalaranya.com/wp-content/uploads/2023/01/Piramal-Aranya-%E2%80%93-Luxurious-Residential-Property-Near-Mumbai-Harbour-.png",
+            "location": "2nd Floor, Plot No 78A, Turner Road ",
+            "location_name": " Bandra West, Mumbai, Maharashtra 400050, India",
+            "money": "$0.00",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.6km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4500 / month"
+        },
+        {
+            "id": 6,
+            "car_image": "https://www.rustomjee.com/blog/wp-content/uploads/2021/07/Artboard-7.jpg",
+            "location": "C 509, Crystal Plaza Andheri Link Road",
+            "location_name": "Andheri West, Mumbai, Maharashtra 400053, India",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$7810 / month"
+        },
+        {
+            "id": 7,
+            "car_image": "https://www.mumbailive.com/images/media/images/images_1579873300838_property_mumbai.jpg?bg=6c97e5&crop=2000%2C1122.8070175438595%2C0%2C75.22416475972551&fit=crop&fitToScale=w%2C1368%2C768&fm=webp&h=768&height=1200&w=1368&width=2000",
+            "location": "C 509, Crystal Plaza Andheri Link Road",
+            "location_name": "Andheri West, Maharashtra 400053, India",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$2810 / month"
+        },
+        {
+            "id": 8,
+            "car_image": "https://images.livemint.com/img/2022/12/31/600x338/f952eac8-55a9-11eb-99d6-eee15152a034_1610589841967_1610589966367_1672494897341_1672494897341.jpg",
+            "location": "C 509, Crystal Plaza Andheri Link Road",
+            "location_name": "Andheri , Mumbai, Maharashtra 400053, India",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$8810 / month"
+        },
+        {
+            "id": 9,
+            "car_image": "https://d3dy70zhjs5mi1.cloudfront.net/s3fs-public/styles/large/public/2023-07/orl_360West_project_listing_PixelDo_777x461px_240323_D_0.jpeg?itok=hK4Hhoy_",
+            "location": "C 509, Crystal Plaza Andheri Link Road",
+            "location_name": " West, Mumbai, Maharashtra 400053, India",
+            "money": "$6.80",
+            "people_range": "4 People",
+            "car_type": "Gasoline",
+            "car_km": "7.2km / 1-litre",
+            "car_run": "Automatic",
+            "car_price": "$4810 / month"
+        }
+    ]
+}
