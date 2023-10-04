@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Building Seller App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Building Seller App is a platform designed to help users rent and sell building with ease. This README of  Building Seller App provides an overview of the app's features, instructions for installation.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+1. Building Listings: Sellers can create detailed car listings with descriptions, images, and pricing information.
+2. User Ratings and Reviews: Users can rate and review sellers based on their experiences.
+3. Contact Sellers: Users can send inquiries to sellers directly through the app.
 
-### `npm start`
+### Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. React-JS
+2. React Icons
+3. React Router Dom
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Screenshots
+![Screenshot 2023-10-04 103400](https://github.com/ManishKuPatra254/Assignment2/assets/112771729/eaf72af3-9e5b-4624-8cff-653d16c08c4f)
+![Screenshot 2023-10-04 103413](https://github.com/ManishKuPatra254/Assignment2/assets/112771729/39e1f175-b768-49fe-8461-28f30cb5f474)
+![Screenshot 2023-10-04 103431](https://github.com/ManishKuPatra254/Assignment2/assets/112771729/3a74c315-6083-414c-bc50-21c9c2c45a1c)
+![Screenshot 2023-10-04 103454](https://github.com/ManishKuPatra254/Assignment2/assets/112771729/f7574a8a-11ee-49a1-93d9-010ca3287e52)
+![Screenshot 2023-10-04 103506](https://github.com/ManishKuPatra254/Assignment2/assets/112771729/86f3ff47-8f60-4e3d-85d1-c29510a9b0ab)
